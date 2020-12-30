@@ -1,0 +1,6 @@
+/Users/encompass/Desktop/ConsoleAppDemo/ConsoleAppDemo/bin/Debug/ConsoleAppDemo.exe
+/Users/encompass/Desktop/ConsoleAppDemo/ConsoleAppDemo/bin/Debug/ConsoleAppDemo.pdb
+/Users/encompass/Desktop/ConsoleAppDemo/ConsoleAppDemo/obj/Debug/ConsoleAppDemo.csprojAssemblyReference.cache
+/Users/encompass/Desktop/ConsoleAppDemo/ConsoleAppDemo/obj/Debug/ConsoleAppDemo.csproj.CoreCompileInputs.cache
+/Users/encompass/Desktop/ConsoleAppDemo/ConsoleAppDemo/obj/Debug/ConsoleAppDemo.exe
+/Users/encompass/Desktop/ConsoleAppDemo/ConsoleAppDemo/obj/Debug/ConsoleAppDemo.pdb
