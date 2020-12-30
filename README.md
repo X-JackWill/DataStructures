@@ -1,5 +1,4 @@
-# DataStructures
+# Data Structures
 
-> The data structures demo repository.
-
-ConsoleAppDemo: a demo of data structures used c#.
+This is a repository for data structures.
+ConsoleAppDemo: A demo of data structures used c#.
