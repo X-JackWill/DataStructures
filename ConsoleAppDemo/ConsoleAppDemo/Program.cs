@@ -32,23 +32,33 @@ namespace ConsoleAppDemo
 
 
             /// 栈
-            Person p1 = new Person();
-            Person p2 = new Person();
-            Person p3 = new Person();
-            MMArrayStack<object> arrayStack = new MMArrayStack<object>();
-            arrayStack.push(p1);
-            arrayStack.push(p2);
-            arrayStack.push(p3);
-            Console.WriteLine(arrayStack.peek());
-            arrayStack.pop();
-            arrayStack.pop();
-            Console.WriteLine(arrayStack.peek());
+            //Person p1 = new Person();
+            //Person p2 = new Person();
+            //Person p3 = new Person();
+            //MMArrayStack<object> arrayStack = new MMArrayStack<object>();
+            //arrayStack.push(p1);
+            //arrayStack.push(p2);
+            //arrayStack.push(p3);
+            //Console.WriteLine(arrayStack.peek());
+            //arrayStack.pop();
+            //arrayStack.pop();
+            //Console.WriteLine(arrayStack.peek());
 
-            String str1 = "[";
-            StackSulution sulution = new StackSulution();
-            Console.WriteLine(sulution.IsValid(str1));
+            //String str1 = "[";
+            //StackSulution sulution = new StackSulution();
+            //Console.WriteLine(sulution.IsValid(str1));
 
 
+            // 队列
+            MMArrayQueue<object> arrayQueue = new MMArrayQueue<object>();
+            arrayQueue.Enqueue(1);
+            arrayQueue.Enqueue(2);
+            arrayQueue.Enqueue(3);
+            Console.WriteLine(arrayQueue.GetFront());
+            arrayQueue.Dequeue();
+            arrayQueue.Dequeue();
+            arrayQueue.Dequeue();
+            Console.WriteLine(arrayQueue.GetFront());
         }
     }
 

@@ -35,6 +35,7 @@
     <Compile Include="MMIntArray.cs" />
     <Compile Include="MMArray.cs" />
     <Compile Include="MMArrayStack.cs" />
+    <Compile Include="MMArrayQueue.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
