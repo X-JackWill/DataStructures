@@ -44,7 +44,7 @@ namespace ConsoleAppDemo
             arrayStack.pop();
             Console.WriteLine(arrayStack.peek());
 
-            String str1 = "((";
+            String str1 = "[";
             StackSulution sulution = new StackSulution();
             Console.WriteLine(sulution.IsValid(str1));
 

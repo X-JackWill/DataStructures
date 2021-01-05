@@ -48,6 +48,7 @@ namespace ConsoleAppDemo
         }
     }
 
+    //String str1 = "(({}))";
 
     // leetcode 20.有效的括号 
     class StackSulution
@@ -64,32 +65,28 @@ namespace ConsoleAppDemo
                 }
                 else
                 {
-                    if (stack.Count <= 0)
+                    if (stack.Count == 0)
                     {
                         return false;
                     }
 
-                    Char top = (Char)stack.Peek();
-
-                    if (c == ']' && top == '[')
+                    if (c == ']' || c == ')' || c == '}')
                     {
-                        stack.Pop();
-                    }
-                    else if (c == ')' && top == '(')
-                    {
-                        stack.Pop();
-                    }
-                    else if (c == '}' && top == '{')
-                    {
-                        stack.Pop();
-                    }
-                    else
-                    {
-                        return false;
+                        Char top = (Char)stack.Peek();
+                        if (top == '[' && c == ']' ||
+                            top == '(' && c == ')' ||
+                            top == '{' && c == '}')
+                        {
+                            stack.Pop();
+                        }
+                        else
+                        {
+                            return false;
+                        }
                     }
                 }
             }
-            return stack.Count % 2 == 0;
+            return (stack.Count == 0);
         }
     }
 }
