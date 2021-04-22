@@ -1,10 +1,10 @@
 ﻿<Properties StartupConfiguration="{805E08B3-3B31-445B-A734-C8A9D1B8926C}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="ConsoleAppDemo/MMArrayQueue.cs">
     <Files>
-      <File FileName="ConsoleAppDemo/MMArrayQueue.cs" Line="17" Column="20" />
-      <File FileName="ConsoleAppDemo/MMArrayStack.cs" Line="21" Column="1" />
-      <File FileName="ConsoleAppDemo/MMIntArray.cs" Line="32" Column="22" />
-      <File FileName="ConsoleAppDemo/Program.cs" Line="60" Column="34" />
+      <File FileName="ConsoleAppDemo/MMArrayQueue.cs" Line="15" Column="10" />
+      <File FileName="ConsoleAppDemo/MMArrayStack.cs" />
+      <File FileName="ConsoleAppDemo/MMIntArray.cs" />
+      <File FileName="ConsoleAppDemo/Program.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
