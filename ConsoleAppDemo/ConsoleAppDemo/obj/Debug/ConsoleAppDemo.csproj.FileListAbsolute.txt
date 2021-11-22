@@ -10,3 +10,9 @@
 /Users/encompass/Documents/personal/IT/DataStructures/ConsoleAppDemo/ConsoleAppDemo/obj/Debug/ConsoleAppDemo.csproj.CoreCompileInputs.cache
 /Users/encompass/Documents/personal/IT/DataStructures/ConsoleAppDemo/ConsoleAppDemo/obj/Debug/ConsoleAppDemo.exe
 /Users/encompass/Documents/personal/IT/DataStructures/ConsoleAppDemo/ConsoleAppDemo/obj/Debug/ConsoleAppDemo.pdb
+/Users/morris/Documents/personal/IT/DataStructures/ConsoleAppDemo/ConsoleAppDemo/bin/Debug/ConsoleAppDemo.exe
+/Users/morris/Documents/personal/IT/DataStructures/ConsoleAppDemo/ConsoleAppDemo/bin/Debug/ConsoleAppDemo.pdb
+/Users/morris/Documents/personal/IT/DataStructures/ConsoleAppDemo/ConsoleAppDemo/obj/Debug/ConsoleAppDemo.csproj.AssemblyReference.cache
+/Users/morris/Documents/personal/IT/DataStructures/ConsoleAppDemo/ConsoleAppDemo/obj/Debug/ConsoleAppDemo.csproj.CoreCompileInputs.cache
+/Users/morris/Documents/personal/IT/DataStructures/ConsoleAppDemo/ConsoleAppDemo/obj/Debug/ConsoleAppDemo.exe
+/Users/morris/Documents/personal/IT/DataStructures/ConsoleAppDemo/ConsoleAppDemo/obj/Debug/ConsoleAppDemo.pdb
